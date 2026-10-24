@@ -1,3 +1,4 @@
+![CI](https://github.com/melekhovv/cicd-demo/actions/workflows/ci.yml/badge.svg)
 # Учебный проект - разбор CI/CD
 Чтобы улучшить свои скиллы в сфере DevOps я занялся изучать CI/CD. 
 ## Немного теории
